@@ -1,0 +1,10 @@
+Principio de inducción
+Sea S un conjunto.
+h0. Si quiero demostrar que P es cierto para todo elemento de S.
+P(h0) es cierto.
+∀ n > h0, si P(n-1) -> P(n)
+		P(n) -> P(n+1)
+
+Unificación.
+1) Dos términos unifican si
+	son idénticos
