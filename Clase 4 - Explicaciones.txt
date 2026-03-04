@@ -1,0 +1,10 @@
+Variables libres - No se le han asignado un valor por el proceso de unificación.
+Variables instanciadas - si ya se le ha asignado un valor.
+
+_ -> Sin valor
+
+-- UNIFICACIÓN --
+
+El símbolo de unificación es el = Ej: X = 1+1, X es 1+1
+El símbolo de expresiones(operaciones) aritméticas es el "is" Ej: X is 1+1, X es 2
+El símbolo de evaluación y comparación de EA es el =:= Ej: 2 =:= 1+1, Sí
