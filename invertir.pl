@@ -20,5 +20,4 @@ invertir([Cabeza|Resto], ) :- invertir(Resto, R), append(Resto, [Cab], R2). % ap
 */
 
 invertir([], []). % Caso base, lista vacía
-
 invertir([Cabeza|Resto], R2) :- invertir(Resto, R), append(R, [Cab], R2).
