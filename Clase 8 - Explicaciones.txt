@@ -1,0 +1,8 @@
+Inducción.
+
+S un conjunto ordenable.
+Queremos demostrar si P es
+cierto para todo elemento de S.
+
+1. P(h0) es cierto.
+2. Para todo n > n0, P(n-1) -> P(n)
